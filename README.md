@@ -28,4 +28,12 @@ This repository contains my daily practised programs
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/sandhiyathirumalaisamyg-sketch/my-coding/tree/master/0867-transpose-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/sandhiyathirumalaisamyg-sketch/my-coding/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/sandhiyathirumalaisamyg-sketch/my-coding/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
