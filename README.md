@@ -10,6 +10,7 @@ This repository contains my daily practised programs
 | [0766-toeplitz-matrix](https://github.com/sandhiyathirumalaisamyg-sketch/my-coding/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/sandhiyathirumalaisamyg-sketch/my-coding/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sandhiyathirumalaisamyg-sketch/my-coding/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1920-build-array-from-permutation](https://github.com/sandhiyathirumalaisamyg-sketch/my-coding/tree/master/1920-build-array-from-permutation) |
 ## Matrix
 |  |
 | ------- |
@@ -28,6 +29,7 @@ This repository contains my daily practised programs
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/sandhiyathirumalaisamyg-sketch/my-coding/tree/master/0867-transpose-matrix) |
+| [1920-build-array-from-permutation](https://github.com/sandhiyathirumalaisamyg-sketch/my-coding/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
